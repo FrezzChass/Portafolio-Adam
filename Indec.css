@@ -1,0 +1,170 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+ body{
+   background-image: url("Imagenes/62035.jpg" );
+   background-size: 100%;
+   background-attachment: fixed;
+ }
+
+ 
+.qwe {
+  background-color: rgba(49, 206, 206, 0.966);
+  width: 100%;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+}
+ 
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+ 
+.qwe ul li {
+  display: inline-block;
+}
+ 
+.qwe a {
+  text-decoration: none;
+  color: white;
+  justify-content: space-around;
+  padding: 20px;
+  display: flex;
+}
+ 
+.qwe a:hover {
+  color: rgb(113, 92, 161);
+  background-color:lime;
+}
+
+
+h3{
+    padding: 10px;
+}
+
+body  {
+    
+    font-family: Georgia, "Times New Roman", Times, serif;
+    
+    
+    }
+    
+    .pepe {
+        background-color: transparent;
+        width: 750px;
+     border: 2px solid;
+     height: 150px;
+    padding: 20px;
+    margin: 20px;
+    color: black;
+    }
+    
+  
+    
+    footer {
+     background-color:rgba(145, 183, 201, 0.418);
+    width: 500px;
+    height: 405px;
+    padding: 10px;
+    margin: 10px;
+    border: 4px solid;
+    
+    }
+
+    .pa{
+        color:steelblue;
+        width: 170px;
+      
+    }
+    .pe{
+        color: rgb(177, 51, 51);
+    }
+    .pi{
+        color: rgb(8, 116, 62);
+    }
+    .po{
+      color: rgb(160, 98, 98);
+    }
+
+    element.style {
+      width: 1028px ;
+      left: -49px;
+  }
+
+  figure {
+    border: thin #c0c0c0 solid;
+    display: flex;
+    flex-flow: column;
+    padding: 5px;
+    max-width: 220px;
+    margin: auto;
+}
+
+img {
+    max-width: 220px;
+    max-height: 180px;
+    border: 8px solid;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+.tuyo{
+  width: 500px;
+  height: 250px;
+}
+
+.tyu{
+  height: auto;
+  width: auto;
+  padding: 10px;
+}
+.cvb{
+ color: aqua;
+ margin: 10px;
+}
+.bnm{
+  color: aqua;
+  margin: 10px;
+}
+.zxc{
+  margin: 10px  ;
+  color: aqua;
+}
+.mnb{
+  color: rgb(255, 0, 0);
+}
+.pta{
+  padding: 10px;
+ 
+}
+.jhg{
+  height: 80px;
+}
+
+@media screen and (max-width: 375px){
+  body{
+    background-color: pink;
+}
+}
+
+@media screen and (max-width: 375px){
+  footer{
+    font: 10px;
+    color: green;
+  }
+}
+  
+
+
+  
